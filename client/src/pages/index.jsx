@@ -1,0 +1,6 @@
+export { default as Tours } from './Tours'
+export { default as TourDetails } from './TourDetails'
+export { default as Login } from './Login'
+export { default as Signup } from './Signup'
+export { default as Account } from './Account'
+export { default as NotFound } from './NotFound'
